@@ -1,7 +1,8 @@
 <header>
   
-# <> SOBRE MIM
-<img src="https://img.shields.io/static/v1?label=Overview&message=Volpato&color=e46055&style=for-the-badge&logo=GitHub" alt="Static GitHub" align="right"  width="200">  
+<h1> <> SOBRE MIM 
+<img src="https://img.shields.io/static/v1?label=Overview&message=Volpato&color=e46055&style=for-the-badge&logo=GitHub" alt="Static GitHub" align="right"  width="230">  
+</h1>
 </header>
 
 <br />
@@ -40,6 +41,7 @@ class Undergraduate {
 <code><img height="32" src="icons/python.svg" title="Python" alt="Python Logo"/></code>
 <code><img height="32" src="icons/c++.svg" title="C++" alt="Letra C"/></code>
 <code><img height="32" src="icons/arduino.svg" title="Arduino" alt="Arduino Logo"/></code>
+<br>
 <code><img height="32" src="icons/visual-basic.svg" title="Visual Studio Code" alt="Visual Studio Code Logo"/></code>
 <code><img height="32" src="icons/latex.svg" title="LaTeX" alt="LaTeX Logo"/></code>
 
@@ -52,7 +54,7 @@ class Undergraduate {
 <div align="center">
   <h2> Estatísticas </h2>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielVolpatoP&theme=dracula&show_icons=true&hide_border=true&count_private=true" width="400"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielVolpatoP&theme=dracula&show_icons=true&hide_border=true&count_private=true" width="395"  />
   &nbsp;&nbsp;&nbsp;&nbsp; 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielVolpatoP&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="Top languages"/>
 </div>
@@ -60,7 +62,11 @@ class Undergraduate {
 <br />
 
 <footer>
-<h2 align="center">
+<div align="right">
+<h2>
 Obrigrado pela atenção. </>
 </h2>
+  
+  _Perfil de Gabriel Volpato Parpineli_
+  
 </footer>
