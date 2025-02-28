@@ -36,7 +36,7 @@ class Undergraduate {
 <h2 align="center" > Linguagens e ferramentas  </h2>
 
 <code><img height="32" src="icons/python.svg" title="Python" alt="Python Logo"/></code>
-<code><img height="32" src="icons/square-c.svg" title="C++" alt="Letra C"/></code>
+<code><img height="32" src="icons/c++.svg" title="C++" alt="Letra C"/></code>
 <code><img height="32" src="icons/arduino.svg" title="Arduino" alt="Arduino Logo"/></code>
 <code><img height="32" src="icons/visual-basic.svg" title="Visual Studio Code" alt="Visual Studio Code Logo"/></code>
 
