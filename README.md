@@ -1,7 +1,7 @@
 <header>
   
 <h1> <> SOBRE MIM 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Volpato&color=e46055&style=for-the-badge&logo=GitHub" alt="Static GitHub" align="right"  width="200">  
+<img src="https://img.shields.io/static/v1?label=Overview&message=Volpato&color=e46055&style=for-the-badge&logo=GitHub" alt="Static GitHub" align="right"  width="230">  
 </h1>
 </header>
 
