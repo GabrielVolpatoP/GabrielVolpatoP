@@ -1,9 +1,7 @@
 <header>
-<h2>
-    
-<> SOBRE MIM
-<img src="https://img.shields.io/static/v1?label=Overview&message=Volpato&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub" align="right"  width="200">  
-</h2>
+  
+# <> SOBRE MIM
+<img src="https://img.shields.io/static/v1?label=Overview&message=Volpato&color=e46055&style=for-the-badge&logo=GitHub" alt="Static GitHub" align="right"  width="200">  
 </header>
 
 <br />
@@ -11,9 +9,13 @@
 <div>   
 <img src="imagens/bibliografia.png" width="335" height="308" align="right">
 
+
 ```c++
-#ifndef BIOGRAFIA_H
+#ifndef
 #define BIOGRAFIA_H
+
+#include <Bibliogradia.h>
+#include <Arduino.h>
 
 class Undergraduate {
     public:
@@ -26,7 +28,7 @@ class Undergraduate {
     }
 };
 
-#endif
+#endif 
 ```
 </div>
 
@@ -58,7 +60,7 @@ class Undergraduate {
 <br />
 
 <footer>
-<h1 align="center">
+<h2 align="center">
 Obrigrado pela atenção. </>
-</h1>
+</h2>
 </footer>
