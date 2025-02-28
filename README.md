@@ -48,9 +48,9 @@ class Undergraduate {
 <div align="center">
   <h2> Estatísticas </h2>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=v0lb1nary&show_icons=true&theme=dark" width="400"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielVolpatoP&show_icons=true&theme=dark" width="400"  />
   &nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v0lb1nary&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielVolpatoP&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top languages"/>
 </div>
 
 <br />
