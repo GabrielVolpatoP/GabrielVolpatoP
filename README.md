@@ -39,7 +39,7 @@ class Undergraduate {
 <code><img height="32" src="icons/c++.svg" title="C++" alt="Letra C"/></code>
 <code><img height="32" src="icons/arduino.svg" title="Arduino" alt="Arduino Logo"/></code>
 <code><img height="32" src="icons/visual-basic.svg" title="Visual Studio Code" alt="Visual Studio Code Logo"/></code>
-
+<code><img height="32" src="icons/latex.svg" title="LaTeX" alt="LaTeX Logo"/></code>
 
 </div>
     
