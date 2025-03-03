@@ -15,7 +15,7 @@
 #ifndef
 #define BIOGRAFIA_H
 
-#include <Bibliogradia.h>
+#include <Bibliografia.h>
 #include <Arduino.h>
 
 class Undergraduate {
