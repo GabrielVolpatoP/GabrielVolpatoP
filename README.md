@@ -62,11 +62,12 @@ class Undergraduate {
 <br />
 
 <footer>
-<div align="right">
+  
 <h2>
 Obrigrado pela atenção. </>
+<img src="imagens/assinatura.png" width="155" align="right">
+  
 </h2>
   
-  _Perfil de Gabriel Volpato Parpineli_
-  
+
 </footer>
