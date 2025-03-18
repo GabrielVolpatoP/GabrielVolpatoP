@@ -38,7 +38,7 @@ class Undergraduate {
 <div align="center" >
 <h2 align="center" > Linguagens e ferramentas  </h2>
 
-<code><img height="32" src="icons/python.svg" title="Python" alt="Python Logo"/></code>
+<code><img height="32" src="icons/python.svg" title="Python" alt="Python Logo" style="filter: invert(38%) sepia(84%);"/></code>
 <code><img height="32" src="icons/c++.svg" title="C++" alt="Letra C"/></code>
 <code><img height="32" src="icons/arduino.svg" title="Arduino" alt="Arduino Logo"/></code>
 <br>
@@ -65,7 +65,7 @@ class Undergraduate {
   
 <h2>
 Obrigrado pela atenção. </>
-<img src="imagens/assinatura.png" width="155" align="right">
+<img src="imagens/Duck_Logo_Borda.svg" width="155" align="right">
   
 </h2>
   
